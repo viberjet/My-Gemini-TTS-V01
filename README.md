@@ -28,3 +28,53 @@ Follow these steps to set up the project locally on your machine.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/viberjet/My-Gemini-TTS-V01.git](https://github.com/viberjet/My-Gemini-TTS-V01.git)
+
+```
+
+2. **Navigate to the project directory:**
+```bash
+cd My-Gemini-TTS-V01
+
+```
+
+
+3. **Install dependencies:**
+```bash
+npm install
+# or
+yarn install
+
+```
+
+
+4. **Run the development server:**
+```bash
+npm run dev
+# or
+yarn dev
+
+```
+
+
+Open [http://localhost:3000](http://localhost:3000?utm_source=gemini) with your browser to see the result.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** (Specify your framework here, e.g., Next.js / React / HTML-JS)
+* **Deployment:** Vercel
+* **API/Core:** (Specify the TTS engine or Gemini API details here)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are highly welcome! I am actively looking for community support to improve this tool.
+Please check the [issues page](https://www.google.com/search?q=https://github.com/viberjet/My-Gemini-TTS-V01/issues&utm_source=gemini) if you want to contribute.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
